@@ -8,7 +8,7 @@
 https://www.postman.com/restless-crater-438425/workspace/assignment2-api-documentation/collection/24258835-e73b4f17-85fb-44be-83df-6f4274719462?action=share&creator=24258835
 ```
 
-## Coution !
+## Attention !
 ```
 Silahkan ubah password di bagian db.go sesuai dengan password yang digunakan pada postgres masing masing
 ```
